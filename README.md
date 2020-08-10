@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Codey's github stats](https://github-readme-stats.vercel.app/api?username=codeyavixi&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=codeyavixi&theme=dracula" />
+[![Codey's github stats](https://github-readme-stats.vercel.app/api?username=codeyavixi&hide=stars,prs,issues,contribs&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **codeyavixi/codeyavixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
