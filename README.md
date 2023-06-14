@@ -1,9 +1,9 @@
-[![Codey's Github stats](https://github-readme-stats.vercel.app/api?username=codeyavixi&hide=stars,prs,issues,contribs&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Codey's Github stats](https://github-readme-stats.vercel.app/api?username=c0de-e&hide=stars,prs,issues,contribs&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeyavixi&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0de-e&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**codeyavixi/codeyavixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**c0de-e/c0de-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
